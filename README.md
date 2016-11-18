@@ -5,3 +5,4 @@
 
 *    Write Java automation that will make requests to this API:<br>
      Include TestNG or JUnit classes with validations for the documented functional test cases
+* added
